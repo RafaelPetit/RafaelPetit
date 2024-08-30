@@ -2,12 +2,12 @@
 <p>
   <b>
     👋 Olá! Sou Rafael Petit, um desenvolvedor backend apaixonado por criar soluções eficientes e 
-    escaláveis. Especialista em Node.js e NestJS, aplico os princípios de Clean Code e SOLID para 
+    escaláveis. Me Especializo em Node.js e NestJS, aplico os princípios de Clean Code e SOLID para 
     garantir qualidade e performance. Atualmente, estou cursando Ciência da Computação na UNIP e 
     atuo em T.I. na DDmáquinas, onde contribuo para o desenvolvimento e automação de sistemas críticos.
   </b>
 </p>
-<h1 align="center">Tecnologias💻</h1>
+<h1 align="center">Tecnologias</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -26,7 +26,7 @@
 
 
 <center>
-  <h1 align="center">Estatísticas🧮</h1>
+  <h1 align="center">Estatísticas</h1>
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPetit&hide=html&layout=compact&theme=buefy&locale=pt-BR&title_color=ADBAC7&bg_color=22272E&text_color=ADBAC7&hide_border=False" /></td>
