@@ -2,7 +2,7 @@
 <p>
   <b>
     👋 Olá! Sou Rafael Petit, um desenvolvedor backend apaixonado por criar soluções eficientes e 
-    escaláveis. Me Especializo em Node.js e NestJS, aplico os princípios de Clean Code e SOLID para 
+    escaláveis. Me Especializo em Node.js/NestJS e Java, aplico os princípios de Clean Code e SOLID para 
     garantir qualidade e performance. Atualmente, estou cursando Ciência da Computação na UNIP e 
     atuo em T.I. na DDmáquinas, onde contribuo para o desenvolvimento e automação de sistemas críticos.
   </b>
