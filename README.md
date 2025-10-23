@@ -1,27 +1,28 @@
 <h1 align="center">Sobre mim</h1>
 <p>
   <b>
-    👋 Olá! Sou Rafael Petit, um desenvolvedor backend apaixonado por criar soluções eficientes e 
-    escaláveis. Me Especializo em Node.js/NestJS e Java, aplico os princípios de Clean Code e SOLID para 
-    garantir qualidade e performance. Atualmente, estou cursando Ciência da Computação na UNIP e 
-    atuo em T.I. na DDmáquinas, onde contribuo para o desenvolvimento e automação de sistemas críticos.
+  🚀 Sou Rafael Petit, desenvolvedor backend focado em Java e Node.js, com experiência em criar APIs bem estruturadas, escaláveis e fáceis de manter. Aplicando Clean Code, SOLID e boas práticas, desenvolvo soluções com testes, documentação e visão de arquitetura.
+
+  📌 Atualmente curso Ciência da Computação (UNIP) e estou aprofundando meus estudos em Arquitetura Cloud e microsserviços. Também desenvolvo projetos próprios para evoluir tecnicamente e aplico conceitos modernos como DDD, TDD, mensageria e CI/CD.
+
+  💡 O que busco?
+  Uma oportunidade como Backend Developer para contribuir com times de alta performance, aprender com desenvolvedores mais experientes e gerar impacto real no negócio.
   </b>
 </p>
 <h1 align="center">Tecnologias</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql%20-%230db7ed.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react%20-%230db7ed.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nextjs%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
 </p>
 
 
