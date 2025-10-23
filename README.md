@@ -5,8 +5,7 @@
 
   📌 Atualmente curso Ciência da Computação (UNIP) e estou aprofundando meus estudos em Arquitetura Cloud e microsserviços. Também desenvolvo projetos próprios para evoluir tecnicamente e aplico conceitos modernos como DDD, TDD, mensageria e CI/CD.
 
-  💡 O que busco?
-  Uma oportunidade como Backend Developer para contribuir com times de alta performance, aprender com desenvolvedores mais experientes e gerar impacto real no negócio.
+  💡 Meu foco é colaborar no desenvolvimento de APIs bem estruturadas, escaláveis e de fácil manutenção, aplicando Clean Code, SOLID e boas práticas em Java e Node.js.
   </b>
 </p>
 <h1 align="center">Tecnologias</h1>
